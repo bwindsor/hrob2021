@@ -11,7 +11,7 @@ jobs:
         run: |
           nix-env -iA git -A git-lfs -f channel:nixos-unstable
           nix-env -iA cachix -f https://cachix.org/api/v1/install
-          cachix use hrob2021-potkavarnauhavrana-cz
+          cachix use tojnar-cz
       - name: Build site
         run: nix-shell --run "site build"
       - name: Archive production artifacts
