@@ -21,6 +21,7 @@ jobs:
           path: public
   Deploy-Site:
     runs-on: ubuntu-latest
+    needs: Build-Site
     steps:
       - name: Download generated site
         uses: actions/download-artifact@v2
