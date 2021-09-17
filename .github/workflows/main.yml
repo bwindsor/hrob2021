@@ -1,0 +1,21 @@
+name: Build HROB2021
+on: [push]
+jobs:
+  Build-Site:
+    runs-on: ubuntu-latest
+    container: nixos/nix
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Prepare environment
+        run: |
+          nix-env -iA git -A git-lfs -f channel:nixos-unstable
+          nix-env -iA cachix -f https://cachix.org/api/v1/install
+          cachix use hrob2021-potkavarnauhavrana-cz
+      - name: Build site
+        run: nix-shell --run "site build"
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: public-folder
+          path: public

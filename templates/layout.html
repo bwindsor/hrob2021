@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="$lang$">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		$if(robots)$<meta name="robots" content="$robots$">$endif$
+
+		<link rel="icon" href="/images/icon.svg" type="image/svg+xml">
+
+		<title>MČR HROB 2021 ⬩ $title$</title>
+
+		<link href="/styles/bootstrap.min.css" rel="stylesheet">
+
+		<link href="/styles/default.css" rel="stylesheet">
+
+		<link href="/styles/jquery.fancybox.css" rel="stylesheet">
+	</head>
+
+	<body>
+		<div class="container main">
+			<header>
+				<a href="/">
+					<div class="header-wrapper">
+						<h1 class="blog-title">MČR HROB 2021</h1>
+						<p class="lead blog-description">6.–7. 11. 2021</p>
+					</div>
+				</a>
+			</header>
+			<div class="row">
+				<div class="col-sm-8 blog-main">
+					<h2>$title$</h2>
+
+					$body$
+				</div><!-- /.blog-main -->
+
+				<div class="col-sm-4 col-sm-offset-1 blog-sidebar">
+					<div class="sidebar-module">
+						$menu$
+					</div>
+				</div><!-- /.blog-sidebar -->
+
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+
+		<script src="/scripts/jquery.min.js"></script>
+		<script src="/scripts/jquery.fancybox.min.js"></script>
+		<script src="/scripts/main.js"></script>
+	</body>
+</html>
