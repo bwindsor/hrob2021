@@ -28,7 +28,7 @@ jobs:
         with:
           name: public-folder
       - name: Install sshpass
-        run: apt-get update && apt-get install sshpass
+        run: sudo apt-get update && sudo apt-get install sshpass
       - name: Deploy site
         env:
             SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
