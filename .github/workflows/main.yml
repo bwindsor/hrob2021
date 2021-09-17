@@ -36,9 +36,9 @@ jobs:
             SFTP_USERNAME: ${{ secrets.SFTP_USERNAME }}
             SFTP_HOSTNAME: ${{ secrets.SFTP_HOSTNAME }}
         run: |
-            mv public hrob2021
+            cd /home/runner/work/hrob2021/hrob2021
             sshpass -p "$SFTP_PASSWORD" sftp -P $SFTP_PORT -o StrictHostKeyChecking=no $SFTP_USERNAME@$SFTP_HOSTNAME << EOF
-            cd www
-            put -r hrob2021
+            cd www/hrob2021
+            put -r public/*
             exit
             EOF
