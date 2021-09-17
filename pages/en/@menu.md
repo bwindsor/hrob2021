@@ -6,7 +6,6 @@
 
 * [News](/en/)
 * [Bulletin](bulletin_2021.html)
-* [Entry system](https://entries.hrob-2021.rogaining.cz/en/)
 * [Weather](weather.html)
 
 #### Event partners
