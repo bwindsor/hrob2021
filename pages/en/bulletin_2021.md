@@ -52,8 +52,8 @@ title: Bulletin of the Czech Mountain Orienteering Championships 2021
       </td>
       <td colspan="4" style="width:79%;">               
          <ul>
-         <li>Czech Mountain Orienteering Championships 2021</li>
-         <li>3<sup>rd</sup> event of the ČAR series 2021</li>
+         <li>25<sup>th</sup> Czech Mountain Orienteering Championships 2021</li>
+         <li>4<sup>th</sup> event of the ČAR series 2021</li>
          <li>Public race for newcomers (PZ)</li>
          <li>Public race for skilled O-runners (PO)</li>
          </ul>
