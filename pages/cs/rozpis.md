@@ -61,7 +61,7 @@ title: Rozpis
       <td colspan="4" style="width:79%;">                
          <ul>
          <li>Mistrovství České republiky v horském orientačním běhu</li>
-         <li>X. závod ČAR série 2021</li>
+         <li>4. závod ČAR série 2021</li>
          <li>Veřejný závod pro příchozí</li>
          </ul>
       </td>
