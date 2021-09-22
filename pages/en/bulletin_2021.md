@@ -126,7 +126,7 @@ title: Bulletin of the Czech Mountain Orienteering Championships 2021
               <td><strong>Open category (PO/PZ) 2 stages</strong></td><td>20 €</td><td>30 €</td>
             </tr>
             <tr>
-              <td><strong>Open category (PO/PZ) 1 stage</strong></td><td>10 €</td><td>10 €</td>
+              <td><strong>Open category (PO/PZ) 1 stage</strong></td><td>10 €</td><td>15 €</td>
             </tr>
           </tbody>
         </table><br>
