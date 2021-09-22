@@ -120,10 +120,10 @@ title: Bulletin of the Czech Mountain Orienteering Championships 2021
               <td><strong>Event type</strong></td><td><strong>Basic entry fee per 1 team</strong></td><td><strong>Late entry fee per 1 team</strong></td>
             </tr>
             <tr>
-              <td><strong>CZ Champs</strong></td><td>30 €</td><td>30 €</td>
+              <td><strong>CZ Champs</strong></td><td>30 €</td><td>40 €</td>
             </tr>
             <tr>
-              <td><strong>Open category (PO/PZ) 2 stages</strong></td><td>20 €</td><td>20 €</td>
+              <td><strong>Open category (PO/PZ) 2 stages</strong></td><td>20 €</td><td>30 €</td>
             </tr>
             <tr>
               <td><strong>Open category (PO/PZ) 1 stage</strong></td><td>10 €</td><td>10 €</td>
