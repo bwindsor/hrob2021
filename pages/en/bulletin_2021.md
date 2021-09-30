@@ -144,7 +144,7 @@ title: Bulletin of the Czech Mountain Orienteering Championships 2021
 		<li>Lodge: Karlovka (the event center itself as well)</li>
 		<li>Lodge: Tichá Říčka (600m from the event centre)</li>
 		<li>Lodge: Sokolka (1500m from the event centre)</li>
-		<li>Hard floor sleeping bag accomodation is still being negotatiated.</li>
+		<li>Tent/teepee at Potkávárna.</li>
 		<ul>		
       </td>
     </tr>   

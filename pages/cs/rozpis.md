@@ -162,7 +162,7 @@ title: Rozpis
 		<li>Lokalita: Karlovka (také v centru závodu)</li>
 		<li>Lokalita: Tichá Říčka (cca 600m od centra závodu)</li>
 		<li>Lokalita: Sokolka (cca 1500m od centra závodu)</li>
-		<li>Tělocvična je zatím v jednání.</li>
+		<li>Stan/teepee na Potkávárně</li>
 		<ul>
       </td>
     </tr>   
