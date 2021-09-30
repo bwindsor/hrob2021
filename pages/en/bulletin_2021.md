@@ -153,7 +153,7 @@ title: Bulletin of the Czech Mountain Orienteering Championships 2021
           <strong>Entries:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        The entry system will be launched on October 1st.
+        Via <a href="https://entries.hrob-2021.rogaining.cz/en/" target="_blank">on-line entry system</a> on&nbsp;the event website.
       </td>
     </tr>
       <td style="width:21%;" valign="top">
