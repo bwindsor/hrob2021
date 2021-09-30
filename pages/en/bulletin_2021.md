@@ -65,7 +65,7 @@ title: Bulletin of the Czech Mountain Orienteering Championships 2021
       </td>
       <td colspan="4" style="width:79%;">
         Event area is bordered by municipalities of Rudolfov – Hrabětice – Josefův Důl – Jiřetín pod Bukovou - Smržovka - Rýnovice - Harcov.<br>
-       	Southern part of Jizerské mountains, altitude 500–900 m. Partially populated area with a dense network of trails. The prevailing landscape is mountain forest which may be physically demading. You may occasionally find meadows and pastures.
+       	Southern part of Jizerské mountains, altitude 500–900 m. Partially populated area with a dense network of trails. The prevailing landscape is mountain forest which may be physically demanding. You may occasionally find meadows and pastures.
       </td>
     </tr>
     <tr>
