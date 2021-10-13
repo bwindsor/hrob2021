@@ -1,4 +1,4 @@
-[![ČAR](/images/car.gif)](http://www.rogaining.cz/)[![ČAES](/images/caes-cerna.gif)](http://www.caes.cz/)
+[![ČAR](/images/car.gif)](http://www.rogaining.cz/)[![HAVRAN](/images/havran.png)](https://www.potkavarnauhavrana.cz/)
 
 [![Český web](/images/csflag.png)](/cs/)
 
