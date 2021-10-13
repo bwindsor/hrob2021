@@ -3,6 +3,10 @@ title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
 ---
+##### 13. 10. 2021
+Rádi bychom touto formou zveřejnili poděkování podniku Lesy České republiky za umožnění pořádání této akce v&nbsp;nádherné oblasti Jizerských hor. Zároveň si dovolujeme upozornit všechny potenciální zájemce na to, že počet účastníků je limitován na&nbsp;300.
+Co se týká ubytování, tak lokality Potkávárna a&nbsp;Karlovka jsou již zaplněny. Nebojte se však hlásit na Sokolku či Tichou říčku, které jsou obě velmi blízko a&nbsp;jsou zamluvené pro tuto akci.  
+
 ##### 1. 10. 2021
 Přečtěte si pár slov z historie od prezidenta ČARu k 25.&nbsp;výročí HROBu.
 Po 24 letech se vracíme do Jizerek, kde jsme v&nbsp;roce 1996 a&nbsp;1997 s&nbsp;HROBem začínali.
