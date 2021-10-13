@@ -4,7 +4,7 @@ author: Jan Tojnar
 modified: Dan Straka
 ---
 ##### 13. 10. 2021
-Rádi bychom touto formou zveřejnili poděkování podniku Lesy České republiky za umožnění pořádání této akce v&nbsp;nádherné oblasti Jizerských hor. Zároveň si dovolujeme upozornit všechny potenciální zájemce na to, že počet účastníků je limitován na&nbsp;300.
+Rádi bychom touto formou zveřejnili poděkování podniku Lesy České republiky za umožnění pořádání této akce v&nbsp;nádherné oblasti Jizerských hor. Zároveň si dovolujeme upozornit všechny potenciální zájemce na to, že počet účastníků je limitován na&nbsp;300.<br>
 Co se týká ubytování, tak lokality Potkávárna a&nbsp;Karlovka jsou již zaplněny. Nebojte se však hlásit na Sokolku či Tichou říčku, které jsou obě velmi blízko a&nbsp;jsou zamluvené pro tuto akci.  
 
 ##### 1. 10. 2021
