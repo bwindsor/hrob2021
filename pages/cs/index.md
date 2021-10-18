@@ -3,6 +3,10 @@ title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
 ---
+##### 18. 10. 2021
+Konec přihlášek i naplnění limitu se blíží, tak raději neváhejte s přihláškou. Tratě se finalizují, ale ještě nejsou kompletně hotovy. Proto jsme také ještě nezveřejnili přesné parametry tratí. Je-li to pro někoho rozhodovacím faktorem, do které kategorie se přihlásit, tak není problém kategorii následně změnit, pokud by to bylo nutné. <br>
+Pár fotek z příprav, abyste se dostali do té správné nálady, je v [Potkávárenské galerii](https://www.potkavarnauhavrana.cz/fotogalerie/).
+
 ##### 13. 10. 2021
 Rádi bychom touto formou zveřejnili poděkování podniku Lesy České republiky za umožnění pořádání této akce v&nbsp;nádherné oblasti Jizerských hor. Zároveň si dovolujeme upozornit všechny potenciální zájemce na to, že počet účastníků je limitován na&nbsp;300.<br>
 Co se týká ubytování, tak lokality Potkávárna a&nbsp;Karlovka jsou již zaplněny. Nebojte se však hlásit na Sokolku či Tichou říčku, které jsou obě velmi blízko a&nbsp;jsou zamluvené pro tuto akci.  
