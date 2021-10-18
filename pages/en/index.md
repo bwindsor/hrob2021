@@ -3,7 +3,7 @@ title: News
 author: Dan Straka
 ---
 
-##### 13. 10. 2021
+##### 18. 10. 2021
 The deadline for the entries is approaching. The same is the truth for the allowed capacity. If you want to take part in the race you shouldn’t postpone your entry too long.
 To help you get into the mood you can browse the photos from the forest in [Potkávárna gallery](https://www.potkavarnauhavrana.cz/fotogalerie/).
 
