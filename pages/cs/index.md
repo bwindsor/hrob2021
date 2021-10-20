@@ -2,7 +2,11 @@
 title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
----
+--- 
+##### 20. 10. 2021
+Zveřejňujeme předběžné délky tratí. Dojde-li ješťě k nějakým změnám, tak se bude jednat pouze o drobnosti.<br>
+<a href="/files/Delky_Trati_HROB_2021.pdf" target="_blank">Parametry tratí zde.</a>
+
 ##### 18. 10. 2021
 Konec přihlášek i&nbsp;naplnění limitu se blíží, tak raději neváhejte s&nbsp;přihláškou. Tratě se finalizují, ale ještě nejsou kompletně hotovy. Proto jsme také ještě nezveřejnili přesné parametry tratí. Je-li to pro někoho rozhodovacím faktorem, do které kategorie se přihlásit, tak není problém kategorii následně změnit, pokud by to bylo nutné. <br>
 Pár fotek z&nbsp;příprav, abyste se dostali do té správné nálady, je v&nbsp;[Potkávárenské galerii](https://www.potkavarnauhavrana.cz/fotogalerie/).
