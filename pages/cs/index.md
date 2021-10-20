@@ -4,7 +4,7 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 ##### 20. 10. 2021
-Zveřejňujeme předběžné délky tratí. Dojde-li ješťě k nějakým změnám, tak se bude jednat pouze o drobnosti.<br>
+Zveřejňujeme předběžné délky tratí. Dojde-li ještě k nějakým změnám, tak se bude jednat pouze o drobnosti.<br>
 <a href="/files/Delky_Trati_HROB_2021.pdf" target="_blank">Parametry tratí zde.</a>
 
 ##### 18. 10. 2021
