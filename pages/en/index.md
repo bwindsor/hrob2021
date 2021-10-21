@@ -2,6 +2,8 @@
 title: News
 author: Dan Straka
 ---
+##### 21. 10. 2021
+Entries will most likely be closed on Sunday October 24th at the latest. Due to reaching of the limit we will be able to accept entries only if some team drops or entry fee isn't paid on time.
 
 ##### 20. 10. 2021
 We are publishing preliminary course parameters. There may be still minor changes but nothing significant. <br>
