@@ -3,6 +3,9 @@ title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
 --- 
+##### 21. 10. 2021
+Přihlášky na 25. MČR HROB budou s největší pravděpodobností uzavřeny nejpozději v&nbsp;neděli 24.&nbsp;10., možná i&nbsp;dřive. Kvůli naplnění limitu už budeme přijímat přihlášky pouze v případě, že nějaký tým účast odřekne, nebo včas nezaplatí.
+
 ##### 20. 10. 2021
 Zveřejňujeme předběžné délky tratí. Dojde-li ještě k nějakým změnám, tak se bude jednat pouze o drobnosti.<br>
 <a href="/files/Delky_Trati_HROB_2021.pdf" target="_blank">Parametry tratí zde.</a>
