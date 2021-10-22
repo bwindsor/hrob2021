@@ -255,7 +255,7 @@ title: Rozpis
           <strong>Informace:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        Na webu: <a href="https://hrob2021.potkavarnauhavrana.cz/cs/" target="_blank">https://hrob2021.potkavarnauhavrana.cz/cs/</a>, na e-mailu info@potkavarnauhavrana.cz nebo na&nbsp;mobilu: <strong>732&nbsp;750&nbsp;032</strong>
+        Na webu: <a href="https://hrob2021.potkavarnauhavrana.cz/cs/" target="_blank">https://hrob2021.potkavarnauhavrana.cz/cs/</a>, na e-mailu info@potkavarnauhavrana.cz nebo na&nbsp;mobilu: <strong>735&nbsp;007&nbsp;532</strong>
       </td>
     </tr>
     <tr>
