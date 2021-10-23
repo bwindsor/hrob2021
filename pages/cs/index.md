@@ -3,6 +3,11 @@ title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
 --- 
+##### 23. 10. 2021
+Milí přátelé je nám to líto ale kvůli naplnění limitu končí on-line příjem přihlášek na MČR HROB. Opozdilí zájemci o&nbsp;start pište na mail jan.tojnar@rogaining.cz, zařadili bychom vás pokud se někdo odhlásí.<br>
+Pro ty kdo se již přihlásili ale ještě nezaplatili startovné, učiňte tak prosím do neděle 24.10, 24:00 nebo uvolněte místo čekatelům. 
+Na Tiché řičce je ještě volná kapacita na ubytování. Pokud se někdo dodatečně rozhodne , že by měl o ubytování zájem, napište na stejný mail.   
+
 ##### 21. 10. 2021
 Přihlášky na 25. MČR HROB budou s největší pravděpodobností uzavřeny nejpozději v&nbsp;neděli 24.&nbsp;10., možná i&nbsp;dřive. Kvůli naplnění limitu už budeme přijímat přihlášky pouze v případě, že nějaký tým účast odřekne, nebo včas nezaplatí.
 

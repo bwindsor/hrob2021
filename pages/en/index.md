@@ -2,6 +2,9 @@
 title: News
 author: Dan Straka
 ---
+##### 23. 10. 2021
+The event has reached the participant capacity. If you still want to run, please contact jan.tojnar@rogaining.cz to be considered in case a team decides to withdraw their entry.
+
 ##### 21. 10. 2021
 Entries will most likely be closed on Sunday October 24th at the latest. Due to reaching of the limit we will be able to accept entries only if some team drops or entry fee isn't paid on time.
 
