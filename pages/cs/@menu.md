@@ -11,5 +11,5 @@
 
 
 #### Partneři závodu
-[![CES](/images/caes-cerna.gif)](https://www.ergonomicka.cz/)<BR>
+[![CES](/images/ces.jpg)](https://www.ergonomicka.cz/)<BR>
 [![Playmap - zákresy postupů](/images/playmap.png)](http://play-map.com/)
