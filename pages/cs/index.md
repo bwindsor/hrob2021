@@ -3,6 +3,9 @@ title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
 --- 
+##### 24. 10. 2021
+Tratě jsou dokončeny. Přidali jsme pár fotek z prostoru závodu do [galerie](https://www.potkavarnauhavrana.cz/fotogalerie/).
+
 ##### 23. 10. 2021
 Milí přátelé je nám to líto ale kvůli naplnění limitu končí on-line příjem přihlášek na MČR HROB. Opozdilí zájemci o&nbsp;start pište na mail jan.tojnar@rogaining.cz, zařadili bychom vás pokud se někdo odhlásí.<br>
 Pro ty kdo se již přihlásili ale ještě nezaplatili startovné, učiňte tak prosím do neděle 24.10, 24:00 nebo uvolněte místo čekatelům. 
