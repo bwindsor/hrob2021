@@ -3,6 +3,10 @@ title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
 --- 
+##### 3. 11. 2021
+Nadešel čas na zveřejnění <a href="/files/pokyny=final.pdf" target="_blank">pokynů</a> pro 25. MČR HROB.<br>
+Přejeme Vám všem krásný sportovní zážitek. Aby zážitek nebyl pouze sportovní ale i kulturní, tak Vás zveme v sobotu večer od 19:30 na muziku. Hrát a zpívat bude "Zpocenej sandál", který se celosvětově proslavil, hlavně v okolí Smržovky. Přidáváme do galerie ještě pár fotek z lesa, na který se můžete těšit. 
+
 ##### 24. 10. 2021
 Tratě jsou dokončeny. Přidali jsme pár fotek z prostoru závodu do [galerie](https://www.potkavarnauhavrana.cz/fotogalerie/).
 
