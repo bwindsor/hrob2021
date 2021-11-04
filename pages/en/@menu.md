@@ -6,6 +6,7 @@
 
 * [News](/en/)
 * [Bulletin](bulletin_2021.html)
+* [Photo gallery](https://www.potkavarnauhavrana.cz/fotogalerie/)
 * [Weather](weather.html)
 
 #### Event partners
