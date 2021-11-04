@@ -6,6 +6,7 @@
 
 * [Novinky](/cs/)
 * [Rozpis](rozpis.html)
+* [Pokyny](/files/pokyny-final.pdf)
 * [Přihláškový systém](https://entries.hrob-2021.rogaining.cz/cs/)
 * [Informace o počasí](pocasi.html)
 
