@@ -3,6 +3,10 @@ title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
 --- 
+##### 5. 11. 2021
+Uvolnilo se nám pár míst na ubytování. Pokud by měl někdo zájem tak pošlete mail na info@potkavarnauhavrana.cz nebo volejte na 774428726.
+Také se nám podařilo zajistit fyzioterapeuty, pokud bude někdo mít zájem o masáž po sobotním závodě tak se domluvte na detailech na prezentaci.
+
 ##### 3. 11. 2021
 Nadešel čas na zveřejnění <a href="/files/pokyny-final.pdf" target="_blank">pokynů</a> pro 25.&nbsp;MČR HROB.<br>
 Přejeme Vám všem krásný sportovní zážitek. Aby zážitek nebyl pouze sportovní, ale i&nbsp;kulturní, tak Vás zveme v&nbsp;sobotu večer od 19:30 na&nbsp;muziku. Hrát a&nbsp;zpívat bude "Zpocenej sandál", který se celosvětově proslavil, hlavně v okolí Smržovky. Přidáváme do [galerie](https://www.potkavarnauhavrana.cz/fotogalerie/) ještě pár fotek z lesa, na který se můžete těšit. 
