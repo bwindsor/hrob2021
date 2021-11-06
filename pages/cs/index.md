@@ -3,6 +3,12 @@ title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
 --- 
+
+##### 6. 11. 2021
+Uveřejňujeme startovku na nedělní etapu.<br>
+<a href="/files/startovka.pdf" target="_blank">Startovka zde.</a>
+
+##### 6. 11. 2021
 "Live tracking" závodníků v hlavních kategoriích můžete sledovat zde:<br>
 [HH](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcs.follow.me.cz%2Ftracking%2FHH%2F&amp;data=04%7C01%7Cdstraka%40microsoft.com%7Cd248327e91774c7dc39f08d9a10926c9%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637717882978720966%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=48v7i7kLwYDfwLCMl6lusOtgzRjuZohMjg4BeSQIbps%3D&amp;reserved=0)<br>
 [HD](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcs.follow.me.cz%2Ftracking%2FHD%2F&amp;data=04%7C01%7Cdstraka%40microsoft.com%7Cd248327e91774c7dc39f08d9a10926c9%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637717882978720966%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=bcBhyTFXiMGd2VSVK%2F8jQx6mAXwL03aim%2BLB%2FRGUKxE%3D&amp;reserved=0)<br>
