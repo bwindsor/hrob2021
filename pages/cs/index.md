@@ -5,7 +5,7 @@ modified: Dan Straka
 --- 
 
 ##### 7. 11. 2021
-25.mistrovství republiky je za námi. Doufáme, že jste si to všichni užili, alespoň tak jako my. Děkujeme všem pořadatelům i sponzorům, bez Vás by tato akce nebyla realizovatelná. Děkujeme dobrovolníkům z Maxova za perfektní obsluhu občerstvovaček. Děkujeme horské službě za dohled nad námi a buďme rádi, že se všichni vrátili z lesa ve zdraví. Děkujem podniku Lesy ČR, že nás do tohoto krásného lesa pustil. Děkujeme Honzovi Prášilovi za skvělou mapu, která umožnila postavit orientačně zajímavé tratě. A h1avně nesmíme zapomenout poděkovat Honzovi Tojnarovi, který byl našim rádcem během připrav závodu.
+25.mistrovství republiky je za námi. Doufáme, že jste si to všichni užili, alespoň tak jako my. Děkujeme všem pořadatelům i sponzorům, bez Vás by tato akce nebyla realizovatelná. Děkujeme dobrovolníkům z Maxova za perfektní obsluhu občerstvovaček. Děkujeme horské službě za dohled nad námi a buďme rádi, že se všichni vrátili z lesa ve zdraví. Děkujem podniku Lesy ČR, že nás do tohoto krásného lesa pustil. Děkujeme Honzovi Prášilovi za skvělou mapu, která umožnila postavit orientačně zajímavé tratě. A hlavně nesmíme zapomenout poděkovat Honzovi Tojnarovi, který byl našim rádcem během připrav závodu.
 Fotografie i výsledky zveřejníme co nejdříve. 
 
 ##### 6. 11. 2021
