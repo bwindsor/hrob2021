@@ -4,22 +4,19 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 8. 11. 2021
+Zveřejňujeme předběžné [výsledky](vysledky.html). Prosíme o kontrolu, případné chyby opravíme.<br>
+Víkend si můžete připomenout těmito [fotografiemi](fota.html)
+
 ##### 7. 11. 2021
 25.mistrovství republiky je za námi. Doufáme, že jste si to všichni užili, alespoň tak jako my. Děkujeme všem pořadatelům i sponzorům, bez Vás by tato akce nebyla realizovatelná. Děkujeme dobrovolníkům z Maxova za perfektní obsluhu občerstvovaček. Děkujeme horské službě za dohled nad námi a buďme rádi, že se všichni vrátili z lesa ve zdraví. Děkujem podniku Lesy ČR, že nás do tohoto krásného lesa pustil. Děkujeme Honzovi Prášilovi za skvělou mapu, která umožnila postavit orientačně zajímavé tratě. A hlavně nesmíme zapomenout poděkovat Honzovi Tojnarovi, který byl našim rádcem během připrav závodu.
 Fotografie i výsledky zveřejníme co nejdříve. 
-
-##### 6. 11. 2021
-Uveřejňujeme startovku na nedělní etapu.<br>
-<a href="/files/startovka.pdf" target="_blank">Startovka zde.</a>
 
 ##### 6. 11. 2021
 "Live tracking" závodníků v hlavních kategoriích můžete sledovat zde:<br>
 [HH](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcs.follow.me.cz%2Ftracking%2FHH%2F&amp;data=04%7C01%7Cdstraka%40microsoft.com%7Cd248327e91774c7dc39f08d9a10926c9%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637717882978720966%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=48v7i7kLwYDfwLCMl6lusOtgzRjuZohMjg4BeSQIbps%3D&amp;reserved=0)<br>
 [HD](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcs.follow.me.cz%2Ftracking%2FHD%2F&amp;data=04%7C01%7Cdstraka%40microsoft.com%7Cd248327e91774c7dc39f08d9a10926c9%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637717882978720966%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=bcBhyTFXiMGd2VSVK%2F8jQx6mAXwL03aim%2BLB%2FRGUKxE%3D&amp;reserved=0)<br>
 [DD](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcs.follow.me.cz%2Ftracking%2FDD%2F&amp;data=04%7C01%7Cdstraka%40microsoft.com%7Cd248327e91774c7dc39f08d9a10926c9%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637717882978720966%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=Jq93niAnKgkWw26CPg5osxQ9u%2BYkthPQIVM7ZotmYSQ%3D&amp;reserved=0)<br>
-
-##### 6. 11. 2021
-[Výsledky sobotní etapy naživo](https://liveresultat.orientering.se/followfull.php?lang=cz&comp=21036)
 
 ##### 5. 11. 2021
 Uvolnilo se nám pár míst na ubytování. Pokud by měl někdo zájem tak pošlete mail na info@potkavarnauhavrana.cz nebo volejte na 774428726.

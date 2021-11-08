@@ -5,9 +5,10 @@
 #### Menu
 
 * [Novinky](/cs/)
+* [Výsledky](vysledky.html)
 * [Rozpis](rozpis.html)
 * [Pokyny](/files/pokyny-final.pdf)
-* [Fotogalerie](https://www.potkavarnauhavrana.cz/fotogalerie/)
+* [Fotogalerie](fota.html)
 * [Přihláškový systém](https://entries.hrob-2021.rogaining.cz/cs/)
 * [Informace o počasí](pocasi.html)
 
