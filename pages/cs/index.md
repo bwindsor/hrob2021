@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 9. 11. 2021
+V sekci [výsledky](vysledky.html) jsme umožnili nahrávání postupů do Playmap. 
+
 ##### 8. 11. 2021
 Zveřejňujeme předběžné [výsledky](vysledky.html). Prosíme o kontrolu, případné chyby opravíme.<br>
 Víkend si můžete připomenout těmito [fotografiemi](fota.html)
