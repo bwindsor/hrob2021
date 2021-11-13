@@ -4,8 +4,12 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 13. 11. 2021
+[Krátký sestřih z 25. MČR HROB](https://1drv.ms/u/s!AvzlVpd-iuDvlMUn9IJOFbuaoAU0gw?e=uWWUr6).<br>
+Vyber si rozlišení dle Tvých možností.
+
 ##### 9. 11. 2021
-V sekci [výsledky](vysledky.html) jsme umožnili nahrávání postupů do Playmap. 
+V sekci [výsledky](vysledky.html) jsme umožnili nahrávání postupů do Playmap.<br> 
 
 ##### 8. 11. 2021
 Zveřejňujeme předběžné [výsledky](vysledky.html). Prosíme o kontrolu, případné chyby opravíme.<br>
