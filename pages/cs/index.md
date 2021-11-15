@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 15. 11. 2021
+Zveřejňujeme finální [výsledky](vysledky.html) a přejeme všem krásný podzim a ještě hezčí zimu.
+
 ##### 13. 11. 2021
 [Krátké video z 25. MČR HROB](https://1drv.ms/u/s!AvzlVpd-iuDvlMUn9IJOFbuaoAU0gw?e=uWWUr6).<br>
 Vyber si rozlišení dle Tvých možností.
