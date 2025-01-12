@@ -6,17 +6,19 @@ on:
 jobs:
   Build-Site:
     runs-on: ubuntu-latest
-    container: nixos/nix:2.5.1
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-      - name: Prepare environment
-        run: |
-          nix-env -iA git -A git-lfs -f channel:nixos-unstable
-          nix-env -iA cachix -f https://cachix.org/api/v1/install
-          cachix use potkavarna-hrob
-      - name: Build site
-        run: nix-shell --run "site build"
+      - name: Run things in Docker
+        uses: addnab/docker-run-action@v3
+        with:
+          image: nixos/nix:latest
+          options: -v ${{ github.workspace }}:/code -w /code
+          run: |
+            nix-env -iA git -A git-lfs -f channel:nixos-unstable
+            nix-env -iA cachix -f https://cachix.org/api/v1/install
+            cachix use potkavarna-hrob
+            nix-shell --run "site build"
       - name: Archive generated site
         uses: actions/upload-artifact@v4
         with:
