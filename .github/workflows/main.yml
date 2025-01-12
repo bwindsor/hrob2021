@@ -8,17 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     container: nixos/nix
     steps:
-      - name: Install node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20.x'
-      - name: Check out repository code
-        uses: actions/checkout@v2
       - name: Prepare environment
         run: |
+          nix-env -iA nixpkgs.nodejs_20
           nix-env -iA git -A git-lfs -f channel:nixos-unstable
           nix-env -iA cachix -f https://cachix.org/api/v1/install
           cachix use tojnar-cz
+      - name: Check out repository code
+        uses: actions/checkout@v2
       - name: Build site
         run: nix-shell --run "site build"
       - name: Archive generated site
