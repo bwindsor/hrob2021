@@ -13,7 +13,9 @@ jobs:
           nix-env -iA nixpkgs.nodejs_20
           nix-env -iA git -A git-lfs -f channel:nixos-unstable
           nix-env -iA cachix -f https://cachix.org/api/v1/install
-          cachix use tojnar-cz
+          cachix use potkavarna-hrob
+          mkdir -p /__e/node20/bin
+          ln -s /root/.nix-profile/bin/node /__e/node20/bin/node
       - name: Check out repository code
         uses: actions/checkout@v2
       - name: Build site
