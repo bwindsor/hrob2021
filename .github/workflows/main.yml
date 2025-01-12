@@ -42,8 +42,8 @@ jobs:
             SFTP_HOSTNAME: ${{ secrets.SFTP_HOSTNAME }}
         run: |
             cd /home/runner/work/hrob2021/hrob2021
+            ls -al
             sshpass -p "$SFTP_PASSWORD" sftp -P $SFTP_PORT -o StrictHostKeyChecking=no $SFTP_USERNAME@$SFTP_HOSTNAME << EOF
-            cd sub/hrob2025
             put -r *
             exit
             EOF
