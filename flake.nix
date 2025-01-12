@@ -1,5 +1,5 @@
 {
-  description = "HROB 2021 Website";
+  description = "HROB 2025 Website";
 
   inputs = {
     flake-compat = {
@@ -21,7 +21,7 @@
 
         haskellPackages = pkgs.haskellPackages.override {
           overrides = final: prev: {
-            hrob2021-potkavarnauhavrana-cz = final.callPackage ./hrob2021-potkavarnauhavrana-cz.nix { };
+            hrob2025-potkavarnauhavrana-cz = final.callPackage ./hrob2025-potkavarnauhavrana-cz.nix { };
           } // hakyll-contrib-tojnar.haskellOverlay final prev;
         };
 
@@ -32,19 +32,19 @@
           ];
         };
 
-        haskellDevShell = self.packages.${system}.hrob2021-potkavarnauhavrana-cz.env.overrideAttrs (attrs: {
+        haskellDevShell = self.packages.${system}.hrob2025-potkavarnauhavrana-cz.env.overrideAttrs (attrs: {
           nativeBuildInputs = attrs.nativeBuildInputs ++ [
             pkgs.cabal-install
           ];
         });
 
-        packages.hrob2021-potkavarnauhavrana-cz = haskellPackages.hrob2021-potkavarnauhavrana-cz;
+        packages.hrob2025-potkavarnauhavrana-cz = haskellPackages.hrob2025-potkavarnauhavrana-cz;
 
-        defaultPackage = self.packages.${system}.hrob2021-potkavarnauhavrana-cz;
+        defaultPackage = self.packages.${system}.hrob2025-potkavarnauhavrana-cz;
 
-        apps.hrob2021-potkavarnauhavrana-cz = utils.lib.mkApp { drv = self.packages.${system}.hrob2021-potkavarnauhavrana-cz; };
+        apps.hrob2025-potkavarnauhavrana-cz = utils.lib.mkApp { drv = self.packages.${system}.hrob2025-potkavarnauhavrana-cz; };
 
-        defaultApp = self.apps.${system}.hrob2021-potkavarnauhavrana-cz;
+        defaultApp = self.apps.${system}.hrob2025-potkavarnauhavrana-cz;
       }
   );
 }

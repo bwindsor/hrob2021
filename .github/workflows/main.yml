@@ -1,4 +1,4 @@
-name: Build HROB2021
+name: Build HROB2025
 on: [push]
 jobs:
   Build-Site:
@@ -6,7 +6,7 @@ jobs:
     container: nixos/nix
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Prepare environment
         run: |
           nix-env -iA git -A git-lfs -f channel:nixos-unstable
@@ -15,7 +15,7 @@ jobs:
       - name: Build site
         run: nix-shell --run "site build"
       - name: Archive generated site
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: public-folder
           path: public
@@ -24,7 +24,7 @@ jobs:
     needs: Build-Site
     steps:
       - name: Download generated site
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: public-folder
       - name: Install sshpass
@@ -38,7 +38,7 @@ jobs:
         run: |
             cd /home/runner/work/hrob2021/hrob2021
             sshpass -p "$SFTP_PASSWORD" sftp -P $SFTP_PORT -o StrictHostKeyChecking=no $SFTP_USERNAME@$SFTP_HOSTNAME << EOF
-            cd www/hrob2021
+            cd sub/hrob2025
             put -r *
             exit
             EOF

@@ -5,7 +5,7 @@
 #### Menu
 
 * [News](/en/)
-* [Bulletin](bulletin_2021.html)
+* [Bulletin](bulletin.html)
 * [Weather](weather.html)
 
 #### Event partners
