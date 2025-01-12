@@ -43,7 +43,4 @@ jobs:
         run: |
             cd /home/runner/work/hrob2021/hrob2021
             ls -al
-            sshpass -p "$SFTP_PASSWORD" sftp -P $SFTP_PORT -o StrictHostKeyChecking=no $SFTP_USERNAME@$SFTP_HOSTNAME << EOF
-            put -r *
-            exit
-            EOF
+            sshpass -p "$SFTP_PASSWORD" scp -o StrictHostKeyChecking=no -r . $SFTP_USERNAME@$SFTP_HOSTNAME:$SFTP_PORT .
