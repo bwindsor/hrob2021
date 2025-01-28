@@ -8,7 +8,7 @@ title: Rozpis
           <center><a href="http://www.rogaining.cz/" target="_blank"><img src="/images/car.gif" alt="Logo ČAR"></a></center>
       </td>
       <td colspan="3" style="width:58%;" align="justify">
-          <center><h4>Rozpis Mistrovství České republiky v&nbsp;horském orientačním běhu 2021</h4></center>
+          <center><h4>Rozpis Mistrovství České republiky v&nbsp;v rogainingu 2025</h4></center>
       </td>
       <td style="width:21%;">
           <center><a href="http://www.caes.cz" target="_blank"><img src="/images/caes-cerna.gif" alt="Logo ČAES"></a></center>
