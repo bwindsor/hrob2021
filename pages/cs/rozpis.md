@@ -8,7 +8,7 @@ title: Rozpis
           <center><a href="http://www.rogaining.cz/" target="_blank"><img src="/images/car.gif" alt="Logo ČAR"></a></center>
       </td>
       <td colspan="3" style="width:58%;" align="justify">
-          <center><h4>Rozpis Mistrovství České republiky v&nbsp;v rogainingu 2025</h4></center>
+          <center><h4>Rozpis Mistrovství České republiky v&nbsp;rogainingu 2025</h4></center>
       </td>
       <td style="width:21%;">
           <center><a href="http://www.caes.cz" target="_blank"><img src="/images/caes-cerna.gif" alt="Logo ČAES"></a></center>
@@ -35,7 +35,7 @@ title: Rozpis
           <strong>Datum:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-          <strong>6.–7. 11. 2021</strong>
+          <strong>21.–22. 6. 2025</strong>
       </td>
     </tr>
     <tr>
@@ -60,9 +60,10 @@ title: Rozpis
       </td>
       <td colspan="4" style="width:79%;">                
          <ul>
-         <li>Mistrovství České republiky v horském orientačním běhu</li>
-         <li>X. závod ČAR série 2021</li>
-         <li>Veřejný závod pro příchozí</li>
+         <li>Mistrovství České republiky v rogainingu na 24 hodin (sobota 12:00 hod. až neděle 12:00 hod.)</li>
+         <li>X. závod ČAR série 2025</li>
+         <li>Veřejný rogainingový závod na 12 hodin (sobota 10:00 až 22:00 hod.)</li>
+         <li>Veřejný rogainingový závod na 6 hodin (sobota 13:00 až 19:00 hod.)</li>
          </ul>
       </td>
     </tr>
@@ -71,7 +72,7 @@ title: Rozpis
           <strong>Prostor závodu:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-      	Prostor závodu je vymezen lokalitami Rudolfov – Hrabětice – Josefův Důl – Jiřetín pod Bukovou - Smržovka - Rýnovice - Harcov.
+      	Prostor závodu je vymezen lokalitami Rudolfov – Hrabětice – Josefův Důl – Desná - Harrachov - Rokytnice nad Jizerou - Jablonec nad Jizerou Železný Brod - Hodkovice nad Mohelkou - Jablonec nad Nisou Rudolfov.
       </td>
     </tr>
     <tr>
@@ -79,7 +80,7 @@ title: Rozpis
           <strong>Terén:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        jižní část Jizerských hor, nadmořská výška cca 500–900 m. Méně osídlená oblast s&nbsp;hustou sítí cest. Krajina je převážně zalesněna, typ lesa je proměnlivý ale z&nbsp;velké části se jedná o&nbsp;horský, fyzicky náročný terén. Místy horské louky.
+        jižní část Jizerských hor, jizerskohorské a krkonošské podhůří, nadmořská výška cca 400–900 m. Méně osídlená oblast s&nbsp;hustou sítí cest. Krajina je převážně zalesněna, typ lesa je proměnlivý ale z&nbsp;velké části se jedná o&nbsp;horský, fyzicky náročný terén. Místy horské louky.
       </td>
     </tr>
     <tr>
@@ -87,7 +88,7 @@ title: Rozpis
           <strong>Mapa:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        Speciálka pro HROB, měřítko 1: 25 000, e = 10 m, stav 10/2021, vodovzdorně upravená, rozměry zveřejníme v&nbsp;pokynech.
+        Speciálka pro rogaining, měřítko 1: 40 000, e = 10 m, stav 4/2025, vodovzdorně upravená, rozměry zveřejníme v&nbsp;pokynech.
       </td>
     </tr>
     <tr>
@@ -96,9 +97,9 @@ title: Rozpis
       </td>
       <td colspan="4" style="width:79%;">
          <ul>
-          <li>Všichni závodníci budou na prezentaci podepisovat prohlášení, že startují na&nbsp;vlastní nebezpečí, nejeví známky nakažení COVID 19, ani nepřišli do&nbsp;styku s&nbsp;osobou infikovanou nebo v&nbsp;karanténě. Za účastníky mladší 18 let toto prohlášení podepíše jejich rodič nebo zákonný zástupce. Stáhněte si příslušný <a href="/files/souhlas_18.pdf" target="_blank">formulář</a></li>
+          <li>Všichni závodníci budou na prezentaci podepisovat prohlášení, že startují na&nbsp;vlastní nebezpečí. Za účastníky mladší 18 let toto prohlášení podepíše jejich rodič nebo zákonný zástupce. Stáhněte si příslušný <a href="/files/souhlas_18.pdf" target="_blank">formulář</a></li>
           <li>Závodníci mladší 15 let se mohou zúčastnit pouze v&nbsp;doprovodu osoby starší 18 let</li>
-          <li>MČR v HROB se smí zúčastnit pouze sportovci registrovaní v&nbsp;ČAR (týká se všech členů týmu). Bezplatná registrace je možná na&nbsp;prezentaci.</li>
+          <li>MČR na 24 hodin se smí zúčastnit pouze sportovci registrovaní v&nbsp;ČAR (týká se všech členů týmu). Bezplatná registrace je možná na&nbsp;prezentaci.</li>
           </ul>
       </td>
     </tr>
@@ -107,24 +108,24 @@ title: Rozpis
           <strong>Týmy a kategorie:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        Tým tvoří 2 osoby. Oba členové týmu musí absolvovat celý závod pohromadě. Při vzdání kteréhokoli člena družstva se musí kompletní tým dostavit do&nbsp;cíle a závod společně ukončit.<br>
-        Přihlásit se můžete do následujících kategorií:
+         Tým tvoří 2–5 závodníků. Všichni členové týmu musí absolvovat celý závod pohromadě. Při vzdání kteréhokoli člena družstva se musí kompletní tým dostavit do cíle a závod společně ukončit.<br>
+        Přihlásit se můžete do&nbsp;následujících kategorií:
         <ul>
-        <li>HH20 (MČR dvojic mužů do 20 let, narození po&nbsp;7.&nbsp;11.&nbsp;2001)</li>
-        <li>HD20 (MČR smíšených dvojic do 20 let, narození po&nbsp;7.&nbsp;11.&nbsp;2001)</li>
-        <li>DD20 (MČR dvojic žen do 20 let, narození po&nbsp;7.&nbsp;11.&nbsp;2001)</li>
-        <li>HH (MČR dvojic mužů, bez omezení věku)</li>
-        <li>HD (MČR smíšených dvojic, bez&nbsp;omezení věku)</li> 
-        <li>DD (MČR dvojic žen, bez omezení věku)</li>
-        <li>HH40 (MČR dvojic mužů nad 40 let, narození před&nbsp;7.&nbsp;11.&nbsp;1981)</li>
-        <li>HD40 (MČR smíšených dvojic nad 40 let, narození před&nbsp;7.&nbsp;11.&nbsp;1981)</li>
-        <li>DD40 (MČR dvojic žen nad 40 let, narození před&nbsp;7.&nbsp;11.&nbsp;1981)</li>
-        <li>HH60 (MČR dvojic mužů nad 60 let, narození před&nbsp;7.&nbsp;11.&nbsp;1961)</li>
-        <li>HD60 (MČR smíšených dvojic nad 60 let, narození před&nbsp;7.&nbsp;11.&nbsp;1961)</li>
-        <li>DD60 (MČR dvojic žen nad 60 let, narození před&nbsp;7.&nbsp;11.&nbsp;1961)</li>
-        <li>PO (příchozí orienťáci bez omezení věku a pohlaví, orientačně obtížná trať, nemistrovská kategorie s&nbsp;možností přihlášení pouze na&nbsp;jednu etapu)</li>
-        <li>PZ (příchozí začátečníci bez omezení věku a pohlaví, orientačně jednoduchá trať, nemistrovská kategorie s&nbsp;možností přihlášení pouze na&nbsp;jednu etapu)</li>
+        <li>MČR na 24 hodin (MY, WY, XY, MO, WO, XO, MV, WV, XV, MSV, WSV, XSV)</li>
+        <li>Veřejný závod na 12 hodin (MO12, WO12, XO12)</li> 
+        <li>Veřejný závod na 6 hodin (MO6, WO6, XO6)</li>
         </ul>
+    <strong>Upřesnění zkratek:</strong> <br>
+        <ul>
+        <li><strong>M</strong> – tým tvoří výhradně muži</li>
+        <li><strong>W</strong> – tým tvoří výhradně ženy</li>
+        <li><strong>X</strong> – v&nbsp;týmu je alespoň jeden muž a alespoň 1&nbsp;žena</li>
+        <li><strong>Y</strong> – kategorie Youth – všichni členové týmu musí být v&nbsp;den startu ve věku 23 let nebo mladší, tj. narozeni 26.&nbsp;6.&nbsp;1998 či později</li>
+        <li><strong>O</strong> – open – bez omezení věku</li>
+        <li><strong>V</strong> – veteráni – všem členům týmu musí být v&nbsp;den startu min. 40 let, tj. narození 26.&nbsp;6.&nbsp;1981 či dříve</li>
+        <li><strong>SV</strong> – superveteráni – všem členům týmu musí být v&nbsp;den startu min. 55 let, tj. narozeni 26.&nbsp;6.&nbsp;1966 či dříve</li>
+      </ul>
+
       </td>
     </tr>
     <tr>
@@ -135,20 +136,20 @@ title: Rozpis
   <table border="1" cellspacing="1" cellpadding="1" style="width:100%;" class="c9" bordercolor="#C0C0C0">
     <tbody>
       <tr>
-        <td><strong>Druh závodu</strong></td><td><strong>Základní startovné za dvojici</strong></td><td><strong>Zvýšené startovné za dvojici</strong></td>
+        <td><strong>Druh závodu</strong></td><td><strong>Základní startovné za&nbsp;1&nbsp;osobu</strong></td><td><strong>Zvýšené startovné za&nbsp;1&nbsp;osobu</strong></td>
       </tr>
       <tr>
-        <td><strong>MČR HROB</strong></td><td>600 Kč</td><td>800 Kč</td>
+        <td><strong>6 hodin</strong></td><td>500&nbsp;Kč</td><td>600&nbsp;Kč</td>
       </tr>
       <tr>
-        <td><strong>Příchozí 2 etapy</strong></td><td>400 Kč</td><td>600 Kč</td>
-      </tr>
-      <tr>
-        <td><strong>Příchozí 1 etapa</strong></td><td>200 Kč</td><td>300 Kč</td>
+        <td><strong>24 a 12 hodin</strong></td><td>900&nbsp;Kč</td><td>1000&nbsp;Kč</td>
       </tr>
     </tbody>
   </table><br>
-    Základní startovné platí v&nbsp;případě přihlášení a zaplacení do neděle 24.&nbsp;10.&nbsp;2021&nbsp;24:00 hod. Od pondělí 25.&nbsp;10.&nbsp;2021 až do&nbsp;skončení prezentace budeme přihlášky přijímat jen omezeně (dokud nedojdou mapy) a za&nbsp;zvýšené startovné.
+    Základní startovné platí v případě přihlášení a zaplacení do <strong>pátku 31.&nbsp;5.&nbsp;2025 24:00 hod.</strong><br>
+    Od&nbsp;<strong>1.&nbsp;6.&nbsp;2025</strong> až do&nbsp;skončení prezentace budeme přihlášky přijímat jen omezeně (dokud nedojdou mapy) a za&nbsp;zvýšené startovné.<br>
+    <strong>Startovné pro závody na&nbsp;12 a 24 hodin zahrnuje:</strong> tisk závodních map a popisů, bezplatný pobyt v&nbsp;centru závodu (pátek až neděle) včetně parkování, noclehu ve&nbsp;vlastních stanech, využití sociálního zařízení, šetrný odběr pitné vody a základní občerstvení při&nbsp;závodě v&nbsp;centru závodu (hash house) a po&nbsp;závodě.<br>
+    <strong>Startovné pro závod na 6 hodin zahrnuje:</strong> tisk závodních map a popisů, parkovné, využití sociálního zařízení, šetrný odběr pitné vody a základní občerstvení po&nbsp;závodě.
       </td>
     </tr>
     <tr>
@@ -171,7 +172,7 @@ title: Rozpis
           <strong>Přihlášky:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        Přihlašovací systém bude spuštěn 1.října.<br>
+        Přihlašovací systém bude spuštěn 1.dubna.2025<br>
         Pro účely vytvoření registru sportovců ČAR bude od závodníků z&nbsp;České republiky systém vyžadovat vyplnění místa trvalého pobytu. Státní orgány budou časem ověřovat soulad registrovaného bydliště s&nbsp;adresou uvedenou v&nbsp;občance.<br>
         Vaše přihláška je zaregistrována v&nbsp;okamžiku, kdy kontaktní osoba (první člen týmu v&nbsp;přihláškovém formuláři) obdrží potvrzení (reply).
       </td>
@@ -189,8 +190,8 @@ title: Rozpis
           <strong>Prezentace:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-      <strong>Pátek 5.&nbsp;11.</strong> od <strong>18:00 do 22:00</strong> v centru závodu<br>
-      <strong>Sobota 6.&nbsp;11.</strong> a <strong>neděle 7.&nbsp;11.</strong> mezi <strong>8:00 až 9:00</strong> v centru závodu
+      <strong>Pátek 20.&nbsp;6.</strong> od <strong>18:00 do 22:00</strong> v centru závodu<br>
+      <strong>Sobota 21.&nbsp;6.</strong> mezi <strong>7:00 až 9:00</strong> v centru závodu
       </td>
     </tr>
     <tr>
@@ -203,15 +204,59 @@ title: Rozpis
     </tr>    
     <tr>
       <td style="width:21%;" valign="top">
-          <strong>Upřesnění závodu a startů:</strong>
+          <strong>Časový harmonogram závodu na 24 hodin:</strong>
       </td>
-      <td colspan="4" style="width:79%;">
-        Dvouetapový horský orientační běh dvojic s&nbsp;časovým limitem pro&nbsp;každou etapu 6&nbsp;hod.&nbsp;30&nbsp;min.<br>
-        <strong>Sobota 6. 11. 2021:</strong><br>
-        Free order s hromadným startem ve vlnách, první vlna startuje v&nbsp;9:30.<br>
-        <strong>Neděle 7.&nbsp;11.&nbsp;2021:</strong><br>
-        Trať s pevným pořadím kontrol. Detaily upřesníme v&nbsp;pokynech.
-      </td> 
+      <td colspan="4" style="width:79%;" valign="top">
+        <p>
+        <strong>Pátek 20.&nbsp;6.&nbsp;2025:</strong><br>
+        18:00–22:00 – prezentace účastníků závodu
+        </p>
+        <p>
+        <strong>Sobota 21.&nbsp;6.&nbsp;2025:</strong><br>
+        7:00–9:00 – prezentace účastníků závodu (vč.&nbsp;plombování čipů)<br>
+        10:00 – konec plombování čipů a začátek výdeje závodních map<br>
+        12:00 – start závodu<br>
+        </p>
+        <p>
+        <strong>Neděle 22.&nbsp;6.&nbsp;2025:</strong><br>
+        12:00 – konec závodu<br>
+        po 14:00 – předpokládaný začátek vyhlašování vítězů
+        </p>
+      </td>        
+    </tr>
+    <tr>    
+      <td style="width:21%;" valign="top">
+          <strong>Časový harmonogram závodu na 12 hodin:</strong>
+      </td>
+      <td colspan="4" style="width:79%;" valign="top">
+        <p>
+        <strong>Pátek 20.&nbsp;6.&nbsp;2025:</strong><br>
+        18:00–22:00 – prezentace účastníků závodu
+        </p>
+        <p>
+        <strong>Sobota 21.&nbsp;6.&nbsp;2025:</strong><br>
+        7:00–9:00 – prezentace účastníků závodu (vč.&nbsp;plombování čipů)<br>
+        9:00 – konec plombování čipů a začátek výdeje závodních map<br>
+        10:00 – start závodu<br>
+        22:00 – konec závodu<br>
+        po 22:30 – předpokládaný začátek vyhlašování vítězů
+        </p>
+      </td>
+    </tr>
+    <tr>         
+      <td style="width:21%;" valign="top">
+          <strong>Časový harmonogram závodu na 6 hodin:</strong>
+      </td>
+      <td colspan="4" style="width:79%;" valign="top">
+        <p>
+        <strong>Sobota 21.&nbsp;6.&nbsp;2025:</strong><br>
+        7:00–11:00 – prezentace účastníků závodu (vč.&nbsp;plombování čipů)<br>
+        12:00 – konec plombování čipů a začátek výdeje závodních map<br>
+        13:00 – start závodu<br>
+        19:00 – konec závodu<br>
+        po 20:00 – předpokládaný začátek vyhlašování vítězů
+        </p> 
+        </td>
     </tr>    
     <tr>
       <td style="width:21%;" valign="top">
@@ -234,10 +279,14 @@ title: Rozpis
     </tr>   
     <tr>
       <td style="width:21%;" valign="top">
-          <strong>Způsob hodnocení:</strong>
+          <strong>Průběh závodu a hodnocení:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        Aby tým mohl být klasifikován, musí oba jeho členové orazit všechny kontroly obou etap. Pořadí týmů ve výsledkové listině se určuje na&nbsp;základě součtu časů obou etap.<br>
+      	Kontroly jsou v mapě a popisech označeny kódem, přičemž první číslice řádu desítek, vynásobená deseti, udává jejich bodovou hodnotu. Na kontrolách 40 až 49 získáte 40 bodů, kontroly 70 až 79 mají bodovou hodnotu 70 atp. Počet a pořadí navštívených kontrol si volí každý tým dle&nbsp;vlastního uvážení.
+        <br>
+        Průchod kontrolou se označí vložením čipu do razící jednotky SI (musí bliknout a pípnout). Kontrolní stanoviště je vybaveno oranžovobílým lampionem o&nbsp;velikosti 30×30&nbsp;cm, SI&nbsp;jednotkou a červenobílým plastovým páskem s&nbsp;číslem kontroly a písmenem, které opíšete v&nbsp;případě nefunkčnosti SI ražení.<br>
+        O&nbsp;umístění týmu v&nbsp;celkovém pořadí rozhoduje dosažený bodový zisk, při&nbsp;rovnosti bodů nižší dosažený čas. Při&nbsp;překročení časového limitu bude odečteno 20 bodů za&nbsp;každou započatou minutu zpoždění. Při&nbsp;překročení časového limitu o&nbsp;30&nbsp;minut a více nebude tým hodnocen.<br>
+        V kategoriích MO, XO a WO se týmy umístěné na&nbsp;prvních dvou místech automaticky kvalifikují na&nbsp;MS&nbsp;2022 a získají finanční podporu ČAR. Vítězové kategorií OPEN obdrží certifikát opravňující k&nbsp;bezplatnému startu na&nbsp;druhém závodě ČAR série 2021, <a href="https://bloudeni.krk-litvinov.cz/2021/cs/" target="_blank">Sudetském&nbsp;Tojnárkovo&nbsp;Bloudění</a> (tým musí závodit ve&nbsp;stejném složení).
       </td>
     </tr>
     <tr>
@@ -246,8 +295,8 @@ title: Rozpis
       </td>
       <td colspan="4" style="width:79%;">
           Ředitel závodu: Dan Straka<br>
-          Stavitel tratí sobota/neděle: Pavel Procházka/Petr Kozák<br>
-          Hlavní rozhodčí sobota/neděle: Jan Tojnar/Jan Tojnar
+          Stavitel tratí: Pavel Petr Kozák<br>
+          Hlavní rozhodčí: Jan Tojnar/Jan Tojnar
       </td>
     </tr>
     <tr>
@@ -255,7 +304,7 @@ title: Rozpis
           <strong>Informace:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        Na webu: <a href="https://hrob2021.potkavarnauhavrana.cz/cs/" target="_blank">https://hrob2021.potkavarnauhavrana.cz/cs/</a>, na e-mailu info@potkavarnauhavrana.cz nebo na&nbsp;mobilu: <strong>732&nbsp;750&nbsp;032</strong>
+        Na webu: <a href="https://hrob2021.potkavarnauhavrana.cz/cs/" target="_blank">https://rogaining-mcr2025.potkavarnauhavrana.cz/cs/</a>, na e-mailu info@potkavarnauhavrana.cz nebo na&nbsp;mobilu: <strong>732&nbsp;750&nbsp;032</strong>
       </td>
     </tr>
     <tr>
@@ -274,7 +323,7 @@ title: Rozpis
           <strong>Schvalovací doložka:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-       	Rozpis byl schválen Prezidiem ČAR v&nbsp;září 2021.
+       	Rozpis byl schválen Prezidiem ČAR v&nbsp;únor 2025.
       </td>
       </tr>
   </tbody>
