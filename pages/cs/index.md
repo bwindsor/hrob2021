@@ -4,9 +4,13 @@ author: Jan Tojnar
 modified: Dan Straka
 ---
 
-##### 6. 9. 2021
-Zdravíme HROB komunitu z&nbsp;[Potkávárny u Havrana](https://www.potkavarnauhavrana.cz/) - horské chalupy vedené orienťáky pro orienťáky či jiné sportovně zaměřené lidi. Mistrovství světa v&nbsp;OB skončilo a my jsme měli to štěstí být u&nbsp;"toho" a&nbsp;hostit různé reprezentační týmy u&nbsp;nás na&nbsp;Potkávárně. Kromě toho, v&nbsp;době kdy to nebylo zrovna zakázáno, tak jsme poskytovali zázemí různým orienťáckým klubům nebo také O-festu, což je krycí název pro pohodový týden se zaměřením na orienťák a dobrou partu (ale nejenom).
-Sám velký guru rogainingu a horského orientačního běhu Tojnárek se účastnil O-festu, kde slovo dalo slovo a my jsme se zavázali k&nbsp;tomu, že letošní HROB uspořádá Potkávárna s&nbsp;centrem na Potkávárně. Abychom v&nbsp;tom nebyli úplně sami tak nám budou pomáhat orienťáci z&nbsp;[OK Roztoky](http://roz.ini.cz/).
-Můžete se tedy těšit na horský orienťák, který se bude konat v&nbsp;tréninkových i&nbsp;závodních prostorech pro letošní mistrovský závod na krátké trati.
-Jsme ve stádiu plánování tratí, budeme Vás informovat o přípravě a budeme všichni společně doufat, že do toho zase nevleze Covid.
+##### 29. 1. 2025
+Zdravíme rogainingovou komunitu z&nbsp;[Potkávárny u Havrana](https://www.potkavarnauhavrana.cz/) - horské chalupy vedené orienťáky pro orienťáky či jiné sportovně zaměřené lidi. 
+
+Za 5&nbsp;let naší existence jsme měli tu čest hostit orienťáky, nejen z&nbsp;mnoha českých klubů a reprezentaćních výběrů ale, také z&nbsp;mnoha dalších zemí. Měli jsme možnost se seznámit s&nbsp;různými reprezentačními týmy před a v&nbsp;průběhu mistrovství světa v&nbsp;OB 2021. A vyzkoušeli jsme si pořádání MČR v&nbsp;horském orientačním běhu 2021. Teď dozrál čas k tomu si uspořádat také královskou disciplínu vytrvalců - rogaining.
+Můžete se tedy těšit na rogaining, který se bude konat v jižní časti Jizerských hor a v jizerskohorském a krkonošském podhůří.
+
+Nemějte strach, nejdeme do toho sami. Sám velký guru rogainingu a horského orientačního běhu Tojnárek je naším konzultantem, orienťáci z&nbsp;[OK Roztoky](http://roz.ini.cz/) nám budou pomáhat, tak jako s Hrobem a stavitel závodu není nikdo jiný než mistr světa na krátké trati z roku 1991 Petr Kozák alias Kožak.
+
+Jsme ve stádiu plánování, budeme Vás informovat o přípravě a budeme všichni společně doufat, že nenastane žádná nepředvídaná situace, která by pořádání znemožnila.   
 
