@@ -72,7 +72,7 @@ title: Rozpis
           <strong>Prostor závodu:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-      	Prostor závodu je vymezen lokalitami Rudolfov – Hrabětice – Josefův Důl – Desná - Harrachov - Rokytnice nad Jizerou - Jablonec nad Jizerou Železný Brod - Hodkovice nad Mohelkou - Jablonec nad Nisou Rudolfov.
+      	Prostor závodu je vymezen lokalitami Rudolfov – Hrabětice – Josefův Důl – Desná - Harrachov - Rokytnice nad Jizerou - Jablonec nad Jizerou - Železný Brod - Hodkovice nad Mohelkou - Jablonec nad Nisou Rudolfov.
       </td>
     </tr>
     <tr>
@@ -122,8 +122,8 @@ title: Rozpis
         <li><strong>X</strong> – v&nbsp;týmu je alespoň jeden muž a alespoň 1&nbsp;žena</li>
         <li><strong>Y</strong> – kategorie Youth – všichni členové týmu musí být v&nbsp;den startu ve věku 23 let nebo mladší, tj. narozeni 26.&nbsp;6.&nbsp;1998 či později</li>
         <li><strong>O</strong> – open – bez omezení věku</li>
-        <li><strong>V</strong> – veteráni – všem členům týmu musí být v&nbsp;den startu min. 40 let, tj. narození 26.&nbsp;6.&nbsp;1981 či dříve</li>
-        <li><strong>SV</strong> – superveteráni – všem členům týmu musí být v&nbsp;den startu min. 55 let, tj. narozeni 26.&nbsp;6.&nbsp;1966 či dříve</li>
+        <li><strong>V</strong> – veteráni – všem členům týmu musí být v&nbsp;den startu min. 40 let, tj. narození 21.&nbsp;6.&nbsp;1985 či dříve</li>
+        <li><strong>SV</strong> – superveteráni – všem členům týmu musí být v&nbsp;den startu min. 55 let, tj. narozeni 21.&nbsp;6.&nbsp;1970 či dříve</li>
       </ul>
 
       </td>
@@ -148,8 +148,8 @@ title: Rozpis
   </table><br>
     Základní startovné platí v případě přihlášení a zaplacení do <strong>pátku 31.&nbsp;5.&nbsp;2025 24:00 hod.</strong><br>
     Od&nbsp;<strong>1.&nbsp;6.&nbsp;2025</strong> až do&nbsp;skončení prezentace budeme přihlášky přijímat jen omezeně (dokud nedojdou mapy) a za&nbsp;zvýšené startovné.<br>
-    <strong>Startovné pro závody na&nbsp;12 a 24 hodin zahrnuje:</strong> tisk závodních map a popisů, bezplatný pobyt v&nbsp;centru závodu (pátek až neděle) včetně parkování, noclehu ve&nbsp;vlastních stanech, využití sociálního zařízení, šetrný odběr pitné vody a základní občerstvení při&nbsp;závodě v&nbsp;centru závodu (hash house) a po&nbsp;závodě.<br>
-    <strong>Startovné pro závod na 6 hodin zahrnuje:</strong> tisk závodních map a popisů, parkovné, využití sociálního zařízení, šetrný odběr pitné vody a základní občerstvení po&nbsp;závodě.
+    <strong>Startovné pro závody na&nbsp;12 a 24 hodin zahrnuje:</strong> tisk závodních map a popisů, bezplatný pobyt v&nbsp;centru závodu (pátek až neděle), využití sociálního zařízení, odběr pitné vody a občerstvení při&nbsp;závodě v&nbsp;centru závodu (hash house) a také dobré jídlo po&nbsp;závodě.<br>
+    <strong>Startovné pro závod na 6 hodin zahrnuje:</strong> tisk závodních map a popisů, využití sociálního zařízení, šetrný odběr pitné vody a dobré jídlo po&nbsp;závodě.
       </td>
     </tr>
     <tr>
@@ -161,9 +161,8 @@ title: Rozpis
 		<ul>
 		<li>Lokalita: Potkávárna u Havrana (v centru závodu)</li>
 		<li>Lokalita: Karlovka (také v centru závodu)</li>
-		<li>Lokalita: Tichá Říčka (cca 600m od centra závodu)</li>
-		<li>Lokalita: Sokolka (cca 1500m od centra závodu)</li>
-		<li>Tělocvična je zatím v jednání.</li>
+		<li>Ubytování ve stanu v okolí Potkávárny (omezená kapacita)</li>
+		<li>Další možnosti dle počtu přihlášek.</li>
 		<ul>
       </td>
     </tr>   
@@ -172,7 +171,7 @@ title: Rozpis
           <strong>Přihlášky:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        Přihlašovací systém bude spuštěn 1.dubna.2025<br>
+        Přihlašovací systém bude spuštěn 1.&nbsp;dubna.&nbsp;2025<br>
         Pro účely vytvoření registru sportovců ČAR bude od závodníků z&nbsp;České republiky systém vyžadovat vyplnění místa trvalého pobytu. Státní orgány budou časem ověřovat soulad registrovaného bydliště s&nbsp;adresou uvedenou v&nbsp;občance.<br>
         Vaše přihláška je zaregistrována v&nbsp;okamžiku, kdy kontaktní osoba (první člen týmu v&nbsp;přihláškovém formuláři) obdrží potvrzení (reply).
       </td>
@@ -286,7 +285,6 @@ title: Rozpis
         <br>
         Průchod kontrolou se označí vložením čipu do razící jednotky SI (musí bliknout a pípnout). Kontrolní stanoviště je vybaveno oranžovobílým lampionem o&nbsp;velikosti 30×30&nbsp;cm, SI&nbsp;jednotkou a červenobílým plastovým páskem s&nbsp;číslem kontroly a písmenem, které opíšete v&nbsp;případě nefunkčnosti SI ražení.<br>
         O&nbsp;umístění týmu v&nbsp;celkovém pořadí rozhoduje dosažený bodový zisk, při&nbsp;rovnosti bodů nižší dosažený čas. Při&nbsp;překročení časového limitu bude odečteno 20 bodů za&nbsp;každou započatou minutu zpoždění. Při&nbsp;překročení časového limitu o&nbsp;30&nbsp;minut a více nebude tým hodnocen.<br>
-        V kategoriích MO, XO a WO se týmy umístěné na&nbsp;prvních dvou místech automaticky kvalifikují na&nbsp;MS&nbsp;2022 a získají finanční podporu ČAR. Vítězové kategorií OPEN obdrží certifikát opravňující k&nbsp;bezplatnému startu na&nbsp;druhém závodě ČAR série 2021, <a href="https://bloudeni.krk-litvinov.cz/2021/cs/" target="_blank">Sudetském&nbsp;Tojnárkovo&nbsp;Bloudění</a> (tým musí závodit ve&nbsp;stejném složení).
       </td>
     </tr>
     <tr>
@@ -295,8 +293,8 @@ title: Rozpis
       </td>
       <td colspan="4" style="width:79%;">
           Ředitel závodu: Dan Straka<br>
-          Stavitel tratí: Pavel Petr Kozák<br>
-          Hlavní rozhodčí: Jan Tojnar/Jan Tojnar
+          Stavitel tratí: Petr Kozák<br>
+          Hlavní rozhodčí: Jan Tojnar
       </td>
     </tr>
     <tr>
@@ -304,7 +302,7 @@ title: Rozpis
           <strong>Informace:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        Na webu: <a href="https://hrob2021.potkavarnauhavrana.cz/cs/" target="_blank">https://rogaining-mcr2025.potkavarnauhavrana.cz/cs/</a>, na e-mailu info@potkavarnauhavrana.cz nebo na&nbsp;mobilu: <strong>732&nbsp;750&nbsp;032</strong>
+        Na webu: <a href="https://rogaining-mcr2025.potkavarnauhavrana.cz/cs/" target="_blank">https://rogaining-mcr2025.potkavarnauhavrana.cz/cs/</a>, na e-mailu info@potkavarnauhavrana.cz nebo na&nbsp;mobilu: <strong>735007532</strong>
       </td>
     </tr>
     <tr>
