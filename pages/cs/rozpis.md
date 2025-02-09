@@ -120,7 +120,7 @@ title: Rozpis
         <li><strong>M</strong> – tým tvoří výhradně muži</li>
         <li><strong>W</strong> – tým tvoří výhradně ženy</li>
         <li><strong>X</strong> – v&nbsp;týmu je alespoň jeden muž a alespoň 1&nbsp;žena</li>
-        <li><strong>Y</strong> – kategorie Youth – všichni členové týmu musí být v&nbsp;roce 2025 ve věku 23 let nebo mladší, tj. narozeni v&nbsp;roce 1998 či později</li>
+        <li><strong>Y</strong> – kategorie Youth – všichni členové týmu musí být v&nbsp;roce 2025 ve věku 23 let nebo mladší, tj. narozeni v&nbsp;roce 2002 či později</li>
         <li><strong>O</strong> – Open – bez omezení věku</li>
         <li><strong>V</strong> – Veteráni – všem členům týmu musí být v&nbsp;roce 2025 min. 45 let, tj. narození v&nbsp;roce 1980 či dříve</li>
         <li><strong>SV</strong> – Superveteráni – všem členům týmu musí být v&nbsp;roce 2025 min. 55 let, tj. narozeni v&nbsp;roce 1970 či dříve</li>
