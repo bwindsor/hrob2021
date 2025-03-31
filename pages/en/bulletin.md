@@ -173,7 +173,6 @@ title: Bulletin
           <strong>Entries:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        The entry system will be launched on 1 April 2025<br>
         For the purpose of creating the ČAR athlete registry, the system will require competitors from the Czech Republic to fill in their personal identification number.<br>
         Your application is registered the moment the contact person (the first team member on the application form) receives a confirmation (reply).
       </td>

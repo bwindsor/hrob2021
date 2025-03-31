@@ -174,7 +174,6 @@ title: Rozpis
           <strong>Přihlášky:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        Přihlašovací systém bude spuštěn 1.&nbsp;dubna.&nbsp;2025<br>
         Pro účely vytvoření registru sportovců ČAR bude od závodníků z&nbsp;České republiky systém vyžadovat vyplnění rodného čísla. <br>
         Vaše přihláška je zaregistrována v&nbsp;okamžiku, kdy kontaktní osoba (první člen týmu v&nbsp;přihláškovém formuláři) obdrží potvrzení (reply).
       </td>
