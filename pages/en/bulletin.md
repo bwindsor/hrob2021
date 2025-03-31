@@ -203,7 +203,7 @@ title: Bulletin
           <strong>Transport and parking:</strong>
       </td>
       <td colspan="4" style="width:79%;">
-        By your own means of transport or public transport. Parking for those staying in accommodation provided by the organizer is possible directly at the accommodation location. Parking for others is possible at public parking lots within walking distance of the race center. The nearest parking lot is at <a href=https://en.mapy.cz/turisticka?x=15.2106657&y=50.7847008&z=15&source=traf&id=44959" target="_blank">Hrabětické kapličky.</a>
+        By your own means of transport or public transport. Parking for those staying in accommodation provided by the organizer is possible directly at the accommodation location. Parking for others is possible at public parking lots within walking distance of the race center. The nearest parking lot is at <a href=https://mapy.com/s/capodogona" target="_blank">Hrabětice - kaplička.</a>
       </td>
     </tr>    
     <tr>

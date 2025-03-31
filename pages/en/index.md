@@ -5,7 +5,7 @@ modified: Dan Straka
 ---
 
 ##### 29. 1. 2025
-A warm welcome to the rogaining community from &nbsp;[Potkávárny u Havrana](https://www.potkavarnauhavrana.cz/) - a mountain lodge run by orienteers for orienteers and similar minded outdoor folks.
+A warm welcome to the rogaining community from &nbsp;[Potkávárna u Havrana](https://www.potkavarnauhavrana.cz/) - a mountain lodge run by orienteers for orienteers and similar minded outdoor folks.
 
 In the 5 years of our existence, we have had the honor of hosting orienteers, not only from Czech clubs and national teams, but also those from many other countries. We had the opportunity to meet various national teams before and during the 2021 Orienteering World Championships. And we organised the 2021 Czech Mountain Orienteering Championships. Now the time is right to organize the ultimate discipline of endurance - [rogaining](https://en.wikipedia.org/wiki/Rogaining).
 You can look forward to rogaining, which will take place in the southern part of the Jizera Mountains and in the foothills of Krkonoše.
