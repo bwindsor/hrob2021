@@ -1,8 +1,15 @@
 ---
 title: News
-author: Dan Straka
+author: Jan Tojnar
+modified: Dan Straka
 ---
-##### 11. 9. 2021
-A warm welcome to the mountain orienteering and rogaining community from [Potkávárna u Havrana](https://www.potkavarnauhavrana.cz/?lang=en) - a mountain lodge run by orienteers for orienteers and similar minded outdoor folks. WOC has finished and we had the privilige to watch it closely and host national squads from various countries.
-But WOC is over now and we decided to accept an offer from Czech rogaining association vice president Jan Tojnar to organize the Czech mountain orienteering championships in the same area as the WOC middle race and adjacent training areas. We also invited our friends from [OK Roztoky orienteering club](http://roz.ini.cz/) to give us a hand.
-Preparation is in full swing now and you can look forward to challenging mountain orienteering in the Jizera mountains. Let's hope it's not going to be stopped by Covid...
+
+##### 29. 1. 2025
+A warm welcome to the rogaining community from &nbsp;[Potkávárny u Havrana](https://www.potkavarnauhavrana.cz/) - a mountain lodge run by orienteers for orienteers and similar minded outdoor folks.
+
+In the 5 years of our existence, we have had the honor of hosting orienteers, not only from Czech clubs and national teams, but also those from many other countries. We had the opportunity to meet various national teams before and during the 2021 Orienteering World Championships. And we organised the 2021 Czech Mountain Orienteering Championships. Now the time is right to organize the ultimate discipline of endurance - [rogaining](https://en.wikipedia.org/wiki/Rogaining).
+You can look forward to rogaining, which will take place in the southern part of the Jizera Mountains and in the foothills of Krkonoše.
+
+Don't worry, we're not going into it alone. The great guru of rogaining and mountain orienteering Jan Tojnár himself is on board to share his plethora of advice, orienteers from&nbsp;[OK Roztoky](http://roz.ini.cz/) will help us, just like they did for the Czech Mountain Orienteering Championships, and the course planner is none other than the 1991 middle distance orienteering world champion Petr Kozák, also known as Kožak.
+
+We are in the planning stage, we will keep you updated on our progress, and we will all hope together that no unforeseen situation will arise that would make the event impossible.
