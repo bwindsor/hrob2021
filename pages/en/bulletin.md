@@ -97,7 +97,7 @@ title: Bulletin
       </td>
       <td colspan="4" style="width:79%;">
          <ul>
-          <li>All competitors will be required to sign a declaration that they participate at their own risk. For those under the age of 18, this must be signed by their parent or legal guardian. Download the <a href="/files/souhlas_18.pdf" target="_blank">form</a></li>
+          <li>All competitors will be required to sign a declaration that they participate at their own risk. For those under the age of 18, this must be signed by their parent or legal guardian. Download the <a href="/files/approval_18.pdf" target="_blank">form</a></li>
           <li>Competitors under the age of 15 may only participate if accompanied by an adult over the age of 18 years</li>
           <li>Only athletes registered with the Czech Rogaining and Mountain Orienteering Association (ČAR) may take part in the 24 hour category (this applies to all members of the team). Free registration is possible at the registration desk.</li>
           </ul>
