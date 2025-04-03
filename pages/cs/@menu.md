@@ -7,7 +7,7 @@
 * [Novinky](/cs/)
 * [Rozpis](rozpis.html)
 * [Informace o počasí](pocasi.html)
-
+* [Přihláškový systém](https://entries.mcr2025.rogaining.cz/cs/)<br/>
 
 #### Partneři závodu
 

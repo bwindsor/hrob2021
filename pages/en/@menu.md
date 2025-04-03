@@ -7,6 +7,7 @@
 * [News](/en/)
 * [Bulletin](bulletin.html)
 * [Weather](weather.html)
+* [Entry system](https://entries.mcr2025.rogaining.cz/en/)<br/>
 
 #### Event partners
 
