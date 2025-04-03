@@ -173,8 +173,9 @@ title: Bulletin
           <strong>Entries:</strong>
       </td>
       <td colspan="4" style="width:79%;">
+        Entries: <a href="https://entries.mcr2025.rogaining.cz/en/">https://entries.mcr2025.rogaining.cz/en/</a><br/>
         For the purpose of creating the ČAR athlete registry, the system will require competitors from the Czech Republic to fill in their personal identification number.<br>
-        Your application is registered the moment the contact person (the first team member on the application form) receives a confirmation (reply).
+        Your entry is confirmed by email to the contact person (the first team member on the application form).
       </td>
     </tr>
       <td style="width:21%;" valign="top">

@@ -174,6 +174,7 @@ title: Rozpis
           <strong>Přihlášky:</strong>
       </td>
       <td colspan="4" style="width:79%;">
+        Přihlašky: <a href="https://entries.mcr2025.rogaining.cz/cs/">https://entries.mcr2025.rogaining.cz/cs/</a><br/>
         Pro účely vytvoření registru sportovců ČAR bude od závodníků z&nbsp;České republiky systém vyžadovat vyplnění rodného čísla. <br>
         Vaše přihláška je zaregistrována v&nbsp;okamžiku, kdy kontaktní osoba (první člen týmu v&nbsp;přihláškovém formuláři) obdrží potvrzení (reply).
       </td>
