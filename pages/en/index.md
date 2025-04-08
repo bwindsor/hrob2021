@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 ---
 
+##### 4. 4. 2025
+The [event bulletin](/en/bulletin.html) is available and the [entry system](https://entries.mcr2025.rogaining.cz/en/) has been launched.
+
 ##### 29. 1. 2025
 A warm welcome to the rogaining community from &nbsp;[Potkávárna u Havrana](https://www.potkavarnauhavrana.cz/) - a mountain lodge run by orienteers for orienteers and similar minded outdoor folks.
 

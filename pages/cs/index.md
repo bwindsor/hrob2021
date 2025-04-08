@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 ---
 
+##### 4. 4. 2025
+Zveřejňujeme [rozpis](/cs/rozpis.html) a spouštíme [přihláškový systém](https://entries.mcr2025.rogaining.cz/cs/) závodu.
+
 ##### 29. 1. 2025
 Zdravíme rogainingovou komunitu z&nbsp;[Potkávárny u Havrana](https://www.potkavarnauhavrana.cz/) - horské chalupy vedené orienťáky pro orienťáky či jiné sportovně zaměřené lidi. 
 
