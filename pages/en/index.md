@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 ---
 
+##### 4. 5. 2025
+This weekend, the organizing team spent in the forest to make sure that the controls are not only correctly placed but also located at nice spots. A few pictures from the terrain are in a [photo gallery](photos.html). 
+
 ##### 4. 4. 2025
 The [event bulletin](/en/bulletin.html) is available and the [entry system](https://entries.mcr2025.rogaining.cz/en/) has been launched.
 

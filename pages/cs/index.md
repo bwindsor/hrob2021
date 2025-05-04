@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 ---
 
+##### 4. 5. 2025
+Tento víkend strávil pořadatelský tým v lese, abychom si byli jisti, že kontroly jsou nejen správně, ale jsou také na hezkých místech. Pár fotek z terénu je ve [fotogalerii](fota.html).
+
 ##### 4. 4. 2025
 Zveřejňujeme [rozpis](/cs/rozpis.html) a spouštíme [přihláškový systém](https://entries.mcr2025.rogaining.cz/cs/) závodu.
 
