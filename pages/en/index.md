@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 ---
 
+##### 25. 5. 2025
+There is only one week left until the end of the regular application deadline, so don't wait any longer please.
+
 ##### 4. 5. 2025
 This weekend, the organizing team spent in the forest to make sure that the controls are not only correctly placed but also located at nice spots. A few pictures from the terrain are in a [photo gallery](photos.html). 
 
