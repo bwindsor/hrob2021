@@ -2,7 +2,10 @@
 title: Novinky
 author: Jan Tojnar
 modified: Dan Straka
----
+--- 
+
+##### 25. 5. 2025
+Zbývá již jen poslední týden do konce termínu řádných přihlášek, tak již déle nečekejte. Jako inspiraci si dovolím nasdílet videoklip od manželů Niklíčkových a skupiny "Mňau mňau band", který vznikl po jejich koncertu na Potkávárně, která byla (jako obvykle) plná orienťáků - [Blues o orientačním běhu](https://www.youtube.com/watch?v=EEqO_0CEON8).
 
 ##### 4. 5. 2025
 Tento víkend strávil pořadatelský tým v lese, abychom si byli jisti, že kontroly jsou nejen správně, ale jsou také na hezkých místech. Pár fotek z terénu je ve [fotogalerii](fota.html).
