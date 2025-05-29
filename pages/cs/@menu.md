@@ -13,3 +13,9 @@
 #### Partneři závodu
 
 [![Playmap - zákresy postupů](/images/playmap.png)](http://play-map.com/)
+
+[![HSH](/images/hsh.png)](http://www.hsh.cz/)
+
+[![HSH](/images/lupine.png)](http://www.lupine.cz/)
+
+[![HSH](/images/suunto.png)](http://www.suuntocz.cz/)
