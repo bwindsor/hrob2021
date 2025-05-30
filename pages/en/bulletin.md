@@ -148,7 +148,7 @@ title: Bulletin
       </tr>
     </tbody>
   </table><br>
-    Basic entry is valid if paid by the end of <strong>Saturday 31.&nbsp;5.&nbsp;2025</strong><br>
+    Basic entry is valid if paid by the end of <strong>Friday 30.&nbsp;5.&nbsp;2025</strong><br>
     From&nbsp;<strong>1.&nbsp;6.&nbsp;2025</strong> until&nbsp;registration closes, we will accept only a limited number of entries (until maps run out) and for&nbsp;the higher late entry fee.<br>
     <strong>Entry for the 12 and 24 hour races includes:</strong> printing of race map and control descriptions, free stay at the event centre (Friday to Sunday), use of sanitary facilities, drinking water and refreshments during the race at the event centre (hash house) and some good food after the race. For 24 hour teams, inclues GPS tracker "Follow Me".<br>
     <strong>Entry for the 6 hour race includes:</strong> printing of race map and control descriptions, use of sanitary facilities, drinking water, and some good food after the race.

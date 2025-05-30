@@ -149,7 +149,7 @@ title: Rozpis
       </tr>
     </tbody>
   </table><br>
-    Základní startovné platí v případě přihlášení a zaplacení do <strong>soboty 31.&nbsp;5.&nbsp;2025 24:00 hod.</strong><br>
+    Základní startovné platí v případě přihlášení a zaplacení do <strong>pátku 30.&nbsp;5.&nbsp;2025 24:00 hod.</strong><br>
     Od&nbsp;<strong>1.&nbsp;6.&nbsp;2025</strong> až do&nbsp;skončení prezentace budeme přihlášky přijímat jen omezeně (dokud nedojdou mapy) a za&nbsp;zvýšené startovné.<br>
     <strong>Startovné pro závody na&nbsp;12 a 24 hodin zahrnuje:</strong> tisk závodních map a popisů, bezplatný pobyt v&nbsp;centru závodu (pátek až neděle), využití sociálního zařízení, odběr pitné vody a občerstvení při&nbsp;závodě v&nbsp;centru závodu (hash house) a také dobré jídlo po&nbsp;závodě. GPS tracker Follow Me pro týmy MČR na 24 hodin. <br>
     <strong>Startovné pro závod na 6 hodin zahrnuje:</strong> tisk závodních map a popisů, využití sociálního zařízení, šetrný odběr pitné vody a dobré jídlo po&nbsp;závodě.
