@@ -5,7 +5,7 @@ modified: Dan Straka
 --- 
 
 ##### 1. 6. 2025
-Náš partner HSH nabízí 15% slevu na lampy a příslušenství firmy LUPINE. Sleva platí pro všechny účastníky závodu do 30.6.25 a lze uplatnit jak na prodejně HSH, tak i v [eshopu](https://www.Lupine.cz)
+Náš partner HSH nabízí 15% slevu na lampy a příslušenství firmy LUPINE. Sleva platí pro všechny účastníky závodu do 30.6.25 a lze uplatnit jak na prodejně HSH, tak i v [eshopu.](https://www.Lupine.cz)
 Pro uplatnění slevy zadejte kód ROG25LU.
 
 
