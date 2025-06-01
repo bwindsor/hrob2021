@@ -4,6 +4,14 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 1. 6. 2025
+Náš partner HSH nabízí 15% slevu na lampy a příslušenství firmy LUPINE. Sleva platí pro všechny účastníky závodu do 30.6.25 a lze uplatnit jak na prodejně HSH tak i v [eshopu https://www.Lupine.cz)
+Pro uplatnění slevy zadejte kód ROG25LU.
+
+
+##### 31. 5. 2025
+Vzhledem k tomu, že ještě máme nějaká volná místa do povolenéhu limitu, jsme se rozhodli prodloužit nabídku účasti za základní startovné do neděle 8. 6. 2025.
+
 ##### 25. 5. 2025
 Zbývá již jen poslední týden do konce termínu řádných přihlášek, tak již déle nečekejte. Jako inspiraci si dovolím nasdílet videoklip od manželů Niklíčkových a skupiny "Mňau mňau band", který vznikl po jejich koncertu na Potkávárně, která byla (jako obvykle) plná orienťáků - [Blues o orientačním běhu](https://www.youtube.com/watch?v=EEqO_0CEON8).
 
