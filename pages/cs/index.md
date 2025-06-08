@@ -4,10 +4,12 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 8. 6. 2025
+Tento víkend jsme strávili v lese štítkováním kontrol. Můžete se těšit, že poznáte nová hezká místa v podhůří Jizerek. Terén je náročný, jak lze od hor očekávat. Těšíme se na Vás již za necelé 2 týdny!
+
 ##### 1. 6. 2025
 Náš partner HSH nabízí 15% slevu na lampy a příslušenství firmy LUPINE. Sleva platí pro všechny účastníky závodu do 30.6.25 a lze uplatnit jak na prodejně HSH, tak i v [eshopu.](https://www.Lupine.cz)
 Pro uplatnění slevy zadejte kód ROG25LU.
-
 
 ##### 31. 5. 2025
 Vzhledem k tomu, že ještě máme nějaká volná místa do povolenéhu limitu, rozhodli jsme se prodloužit nabídku účasti za základní startovné do neděle 8.6.2025.
