@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 9. 6. 2025
+Můžeme prozradit, že v hlavních kategoriích budete mít možnost vyhrát startovné na 12h rogaining v Katalánsku - 15/11/2025 Vallfogona del Ripolles.
+
 ##### 8. 6. 2025
 Tento víkend jsme strávili v lese štítkováním kontrol. Můžete se těšit, že poznáte nová hezká místa v podhůří Jizerek. Terén je náročný, jak lze od hor očekávat. Těšíme se na Vás již za necelé 2 týdny!
 

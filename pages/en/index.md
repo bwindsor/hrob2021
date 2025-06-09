@@ -3,6 +3,7 @@ title: News
 author: Jan Tojnar
 modified: Dan Straka
 ---
+
 ##### 8. 6. 2025
 This weekend we've spent by the final preparation of the control sites. You can look forward to recognize nice places of Jizera mountains and it's foothills. Terrain is challenging as you can expect in the mountains. We look forward to meeting you here in less than two weeks.
 
