@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 15. 6. 2025
+Seznamka: Pokud by chtěl někdo běžet a nemá parťáka/parťačku, tak se nám ozvěte a propojíme Vás.
+
 ##### 9. 6. 2025
 Můžeme prozradit, že v hlavních kategoriích budete mít možnost vyhrát startovné na 12h rogaining v Katalánsku - 15/11/2025 Vallfogona del Ripolles.
 
