@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 18. 6. 2025
+Zveřejnili jsme finální [pokyny](/files/Pokyny_MCR_Rogaining_2025.pdf) k závodu. Přečtěte si je důkladně, závod má svoje specifika. Dozvíte se, že kromě hash house, se můžete občerstvit také v "All Night Cafe" v pivovaru Rezek a pečlivě nastudujte, které lesy jsou v noci přístupné a které ne. Nezapomeňte, že všichni závodníci mají po doběhu nárok na dobré jídlo zdarma. Těšíme se na Vás již zítra!
+
 ##### 15. 6. 2025
 Seznamka: Pokud by chtěl někdo běžet a nemá parťáka/parťačku, tak se nám ozvěte a propojíme Vás.
 
