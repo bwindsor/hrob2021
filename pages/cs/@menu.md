@@ -6,6 +6,7 @@
 
 * [Novinky](/cs/)
 * [Rozpis](rozpis.html)
+* [Pokyny](/files/Pokyny_MCR_Rogaining_2025.pdf)
 * [Informace o počasí](pocasi.html)
 * [Přihláškový systém](https://entries.mcr2025.rogaining.cz/cs/)
 * [Fotogalerie](fota.html)<br/>
