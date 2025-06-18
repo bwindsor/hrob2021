@@ -3,6 +3,8 @@ title: News
 author: Jan Tojnar
 modified: Dan Straka
 ---
+##### 18. 6. 2025
+We have just published [the final bulletin](/files/Final_Bulletin_CZRC_2025.pdf) for the race. Will you read it carefully please as there are some specifics of the race? The bulletin is going to reveal you that apart from the classic hash house, you can refresh and feed yourself in the "All Night Cafe" in Rezek brewery. Study in a detail which forests are accessible during the night, and which are banned in the night. Don't forget that all competitors are eligible for a good meal after finishing the race. We're looking forward to seeing you tomorrow!
 
 ##### 8. 6. 2025
 This weekend we've spent by the final preparation of the control sites. You can look forward to recognize nice places of Jizera mountains and it's foothills. Terrain is challenging as you can expect in the mountains. We look forward to meeting you here in less than two weeks.
