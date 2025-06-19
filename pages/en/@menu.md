@@ -5,11 +5,11 @@
 #### Menu
 
 * [News](/en/)
-* [Bulletin](bulletin.html)
 * [Final bulletin](/files/Final_Bulletin_CZRC_2025.pdf)
 * [Weather](weather.html)
 * [Entry system](https://entries.mcr2025.rogaining.cz/en/)
 * [Photo gallery](photos.html)<br/>
+* [Bulletin](bulletin.html)
 
 #### Event partners
 
