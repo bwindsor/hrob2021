@@ -3,6 +3,10 @@ title: News
 author: Jan Tojnar
 modified: Dan Straka
 ---
+
+##### 21. 6. 2025
+The main 24 hour race of the Czech championship in rogaining starts at 12:00. You can follow the teams online in terrain on [FollowMe.](https://en.follow.me.cz/tracking-en/Roraining25/)
+
 ##### 18. 6. 2025
 We have just published [the final bulletin](/files/Final_Bulletin_CZRC_2025.pdf) for the race. Will you read it carefully please as there are some specifics of the race? The bulletin is going to reveal you that apart from the classic hash house, you can refresh and feed yourself in the "All Night Cafe" in Rezek brewery. Study in a detail which forests are accessible during the night, and which are banned at night. Don't forget that all competitors are eligible for a good meal after finishing the race. We're looking forward to seeing you tomorrow!
 

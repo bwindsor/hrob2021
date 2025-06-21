@@ -4,6 +4,9 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 21. 6. 2025
+Hlavní závod MČR v rogainingu na 24 hodin startuje ve 12:00. Pohyb týmů v terénu budete mít možnost sledovat na webu [FollowMe.](https://en.follow.me.cz/tracking-en/Roraining25/)
+
 ##### 18. 6. 2025
 Zveřejnili jsme finální [pokyny](/files/Pokyny_MCR_Rogaining_2025.pdf) k závodu. Přečtěte si je důkladně, závod má svoje specifika. Dozvíte se, že kromě hash house, se můžete občerstvit také v "All Night Cafe" v pivovaru Rezek. Pečlivě nastudujte, které lesy jsou v noci přístupné a které ne. Nezapomeňte, že všichni závodníci mají po doběhu nárok na dobré jídlo zdarma. Těšíme se na Vás již zítra!
 
