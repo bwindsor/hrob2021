@@ -6,5 +6,6 @@ title: Results
 
 * [Results 6H](/files/v6.pdf) 
 * [Results 12H](/files/v12.pdf)
+* [Results 24H](/files/v24.pdf)
 
 
