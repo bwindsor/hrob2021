@@ -4,6 +4,7 @@
 
 #### Menu
 
+* [Výsledky](vysledky.html)
 * [Novinky](/cs/)
 * [Pokyny](/files/Pokyny_MCR_Rogaining_2025.pdf)
 * [Informace o počasí](pocasi.html)

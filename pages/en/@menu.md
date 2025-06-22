@@ -4,6 +4,7 @@
 
 #### Menu
 
+* [Results](results.html)
 * [News](/en/)
 * [Final bulletin](/files/Final_Bulletin_CZRC_2025.pdf)
 * [Weather](weather.html)
