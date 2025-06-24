@@ -4,6 +4,14 @@ author: Jan Tojnar
 modified: Dan Straka
 --- 
 
+##### 24. 6. 2025
+Do sekce [výsledky](vysledky.html) jsme přidali mezičasy a odkaz na Playmap.
+Do sekce [fotogalerie](fota.html) jsme přidali odkaz na fotky z průběhu víkendu.
+Loučíme se s Vámi s přáním krásného léta a pozvánkou na jednu krásnou letní orienťáckou [akci](https://www.o-fest.cz/) na Potkávárně.
+
+##### 22. 6. 2025
+Zveřejňujeme [výsledky](vysledky.html) MČR 2025. V případě reklamací kontaktujte hlavního rozhodčího [Jana Tojnara.](tojnar@gmail.com)
+
 ##### 21. 6. 2025
 Hlavní závod MČR v rogainingu na 24 hodin startuje ve 12:00. Pohyb týmů v terénu budete mít možnost sledovat na webu [FollowMe.](https://en.follow.me.cz/tracking-en/Roraining25/)
 

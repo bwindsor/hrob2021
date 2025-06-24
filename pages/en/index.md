@@ -6,7 +6,7 @@ modified: Dan Straka
 
 ##### 24. 6. 2025
 We added splits and PlayMap into the [results](results.html) section.
-We added [photos](photos.html) section.
+We added photos into the [Photo gallery](photos.html) section.
 To conclude we'd like to wish you lovely summer and also invite you to another orienteering [event](https://www.o-fest.cz/) at Potkávárna.
 
 ##### 22. 6. 2025
