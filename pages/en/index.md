@@ -4,6 +4,14 @@ author: Jan Tojnar
 modified: Dan Straka
 ---
 
+##### 24. 6. 2025
+We added splits and PlayMap into the [results](results.html) section.
+We added [photos](photos.html) section.
+To conclude we'd like to wish you lovely summer and also invite you to another orienteering [event](https://www.o-fest.cz/) at Potkávárna.
+
+##### 22. 6. 2025
+We are publishing [results](results.html) of the Czech championship in rogaining 2025. In case you see something incorrect please contact [Jan Tojnar.](tojnar@gmail.com)
+
 ##### 21. 6. 2025
 The main 24 hour race of the Czech championship in rogaining starts at 12:00. You can follow the teams online in terrain on [FollowMe.](https://en.follow.me.cz/tracking-en/Roraining25/)
 
